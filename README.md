@@ -19,15 +19,11 @@ Goal: Determine if there is a difference between the 2 groups in number of membe
 # Description of Data
 The data used for this analysis is broken out into several tables:
 
-visits
-- contains information about potential gym customers who have visited MuscleHub
+visits - contains information about potential gym customers who have visited MuscleHub
 
-fitness_tests 
-- contains information about potential customers in "Group A", who were given a fitness test
+fitness_tests - contains information about potential customers in "Group A", who were given a fitness test
 
-applications 
-- contains information about any potential customers (both "Group A" and "Group B") who filled out an application. (Not everyone in visits will have filled out an application.)
+applications - contains information about any potential customers (both "Group A" and "Group B") who filled out an application. (Not everyone in visits will have filled out an application.)
 
-purchases 
-- contains information about customers who purchased a membership to MuscleHub.
+purchases - contains information about customers who purchased a membership to MuscleHub.
 
